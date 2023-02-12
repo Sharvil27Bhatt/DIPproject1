@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-image=cv2.imread("C:\DIP\lena_color.tif")
+image=cv2.imread("lena_color.tif")
 image=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 
 

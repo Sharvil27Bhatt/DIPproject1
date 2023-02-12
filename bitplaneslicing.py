@@ -52,4 +52,5 @@ resized = cv2.resize(final, dim, interpolation = cv2.INTER_AREA)
 
 # Displaying the final resized image
 cv2.imshow('a',resized)
+#image would be displayed indefinetly until a key is pressed
 cv2.waitKey(0) 

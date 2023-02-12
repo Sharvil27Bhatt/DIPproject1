@@ -4,7 +4,7 @@ This is our image processing assignment 1
 Project Contributors
 1. Shreyansh Jain(21ucs198)
 2. Sharvil Bhatt(21dcs009)
-3. Shubham Pandey(21ucs2020
+3. Shubham Pandey(21ucs202)
 
 In this assignment we learnt about how to use opencv first of all and to learn about various concepts of image processing.
 Topics learnt about this assignment include 
